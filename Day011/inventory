@@ -1,0 +1,1 @@
+ansibletarget ansible_host=192.168.0.138 ansible_connection=ssh ansible_user=osboxes ansible_ssh_pass=osboxes.org ansible_sudo_pass=osboxes.org ansible_python_interpreter=/usr/bin/python3
